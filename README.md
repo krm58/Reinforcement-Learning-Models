@@ -1,5 +1,4 @@
 # Reinforcement-Learning-Models
-Various computational models for reinforcement learning
 This repository contains various computational models designed to solve reinforcement learning problems. 
 
 ### Credit Assignment
