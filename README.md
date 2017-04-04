@@ -3,6 +3,7 @@ This repository contains various computational models designed to solve reinforc
 
 ### Credit Assignment
 This folder contains two models, one which fits data from a credit assignment task according to a Rescorla-Wagner learning rule, and the other according to an Eligibility Trace learning rule (see Sutton & Barto, 1998). Also included is an automated learning script which allows for parameter recovery testing as well as simulation of data according to either model. 
+These models use maximum likelihood estimation to generate reinforcement learning parameters, specifically using fmincon.
 
 ### Bandit Task Asymmetric RL
 This folder contains three models to fit data from a two-arm bandit task which delivers both positive and negative outcomes:
